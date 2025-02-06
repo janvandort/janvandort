@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @janvandort
-- 👀 I’m interested in the impact of digital currencies on society systems
-- 🌱 I’m currently learning digital security
-- 💞️ I’m looking to collaborate on 
+- 👀 I’m interested in the impact of digital currencies on society systems and a peacefull world
+- 🌱 I’m currently learning what impacts the financial markets
+- 💞️ I’m looking to collaborate when needed
 - 📫 How to reach me ...
 
 <!---
